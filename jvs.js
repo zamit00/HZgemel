@@ -337,7 +337,9 @@ function cleartesua() {
 }
 
 
-
+function gotomaslul() {
+    window.location.href = 'https://zamit00.github.io/HZgemel/';  
+});
 
 
 
